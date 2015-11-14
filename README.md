@@ -4,12 +4,12 @@ This repo is created to make it easier for machine learning practioners to find 
 Feel free to send a pull request if you have a dataset you'd like to add, or simply notify me about it through submitting an issue.
 
 ## Companies
-[Amazon Public Data Sets](http://aws.amazon.com/datasets/)
-[Windows Azure Marketplace](https://datamarket.azure.com/browse/data?price=any)
-[Yahoo Datasets](http://webscope.sandbox.yahoo.com/)
-[Yelp Academic Datasets](https://www.yelp.com/academic_dataset)
-[NYT Linked Open Data](http://data.nytimes.com/)
-[Google Public Data](https://www.google.com/publicdata/directory)
+* [Amazon Public Data Sets](http://aws.amazon.com/datasets/)
+* [Windows Azure Marketplace](https://datamarket.azure.com/browse/data?price=any)
+* [Yahoo Datasets](http://webscope.sandbox.yahoo.com/)
+* [Yelp Academic Datasets](https://www.yelp.com/academic_dataset)
+* [NYT Linked Open Data](http://data.nytimes.com/)
+* [Google Public Data](https://www.google.com/publicdata/directory)
 
 ## Educational institutions
 [Deeplearning Datasets](http://deeplearning.net/datasets/)
